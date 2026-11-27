@@ -9,6 +9,7 @@ Repositório dedicado a documentar minha evolução, anotações técnicas, labo
 ## 📚 Trilha de Estudos
 Abaixo está o acompanhamento dos cursos e certificações que estou realizando:
 
+- [X] **Introduction to Cybersecurity** – Cisco Networking Academy
 - [ ] **Introdução ao Hacking e Pentest** – Solyd Offensive Security *(Em breve)*
 - [ ] **Certificado Profissional de Segurança Cibernética** – Google / Coursera *(Planejado)*
 
